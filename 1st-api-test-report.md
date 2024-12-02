@@ -41,17 +41,17 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJhbGkxMjMiLCJlbWF
 
 ```json
 {
-  "message": "File uploaded successfully!",
-  "file": {
-    "id": 1,
-    "userId": 1,
-    "image_name": "image_name",
-    "image_url": "image_url",
-    "type": "image/jpeg",
-    "size": 12345,
-    "description": null,
-    "createdAt": "2023-11-22T12:34:56Z"
-  }
+    "message": "File uploaded successfully!",
+    "file": {
+        "id": 3,
+        "userId": 2,
+        "image_name": "1733647181501",
+        "image_url": "https://storage.googleapis.com/upload-waste/1733132626918-373944061.jpeg",
+        "type": "image/jpeg",
+        "size": 19487,
+        "description": null,
+        "createdAt": "2024-12-02T09:43:47.129Z"
+    }
 }
 ```
 
